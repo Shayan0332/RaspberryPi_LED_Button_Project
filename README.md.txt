@@ -1,3 +1,5 @@
+![Project Cover](cover.png)
+
 # Raspberry Pi LED + Push Button Project
 
 This project uses a Raspberry Pi to control an LED using a push button.
@@ -32,3 +34,4 @@ The code for this project is in the file: `button_led_final.py`
 
 ## 👨‍💻 Author
 **Shayan Riaz** — Data Engineer passionate about AI, IoT, and automation.
+

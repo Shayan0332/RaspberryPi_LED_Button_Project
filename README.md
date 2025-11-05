@@ -25,11 +25,12 @@ This project uses a Raspberry Pi to control an LED using a push button.
 The code for this project is in the file: `button_led_final.py`
 
 ## 📷 Circuit Diagram
-*(Add your Fritzing or Proteus diagram image here if available)*  
+![Circuit Diagram](circuit_diagram.png)
 
 ## 🎥 Demo Video
 [Watch the demo on YouTube](https://youtube.com/shorts/qQeMmn3nADA?si=DcnZrKuUsLjBoZLx)
 
 ## 👨‍💻 Author
 **Shayan Riaz** — Data Engineer passionate about AI, IoT, and automation.
+
 
